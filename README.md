@@ -1,4 +1,4 @@
-# Charles Hoyle Vue.js Test, Babcock International
+# Charles Hoyle Vue.js Test; Babcock International
 
 I used the Vue CLI to create the project,on Ubuntu linux.
 
