@@ -1,0 +1,56 @@
+[
+	{ 
+		"id": 0,
+		"reg": "AA123",
+		"category": "small car",
+		"make": "ford",
+		"model": "focus",
+		"fuel": "petrol",
+		"price": 25
+	},
+	{ 
+		"id": 1,
+		"reg": "WW123",
+		"category": "small car",
+		"make": "ford",
+		"model": "focus",
+		"fuel": "petrol",
+		"price": 25
+	},
+	{ 
+		"id": 2,
+		"reg": "HH123",
+		"category": "estate car",
+		"make": "subaru",
+		"model": "carrier",
+		"fuel": "petrol",
+		"price": 35
+	},
+	{ 
+		"id": 3,
+		"reg": "CC123",
+		"category": "estate car",
+		"make": "ford",
+		"model": "mondeo",
+		"fuel": "diesel",
+		"price": 35
+	},
+	{ 
+		"id": 4,
+		"reg": "BB123",
+		"category": "van",
+		"make": "peugeot",
+		"model": "boxer",
+		"fuel": "diesel",
+		"price": 50
+	},
+	{ 
+		"id": 5,
+		"reg": "VV123",
+		"category": "van",
+		"make": "ford",
+		"model": "transit",
+		"fuel": "diesel",
+		"price": 50
+	}
+] 
