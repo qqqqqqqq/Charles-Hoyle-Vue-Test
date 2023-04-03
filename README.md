@@ -1,8 +1,13 @@
-# Charles-Hoyle-Vue-Test
-I used CLI to create the project, on Ubuntu linux.
+# Charles Hoyle Vue.js Test, Babcock International
 
-Attached 2 folders src and static to go in the project root 
-static contains json files to mock the API calls
+I used the Vue CLI to create the project,on Ubuntu linux.
+
+Attached 2 folders: src and static 
+
+src contains the code and static has json files to mock the API calls
+
+### To run the test put these folders in the project root of a Vue app
+
 
 I used Axios for the API's : GET for the data requests and a POST for the final booking 
 The POST gives an error but unsure if this was due to environment I've simply logged the POST parameters. 
